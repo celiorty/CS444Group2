@@ -7,3 +7,7 @@ ZHITONG ZHAO
 Lawrence Jiang
 
 // ADD YOUR NAME AFTER ADDED INTO SITE
+
+
+Trello Page: 
+https://trello.com/b/zP4UT4GW/cs-444-group-2 
