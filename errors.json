@@ -1,0 +1,36 @@
+{
+    "intent_errors": [
+        {
+            "text": "good afternoon",
+            "intent": "greet",
+            "intent_prediction": {
+                "name": "goodbye",
+                "confidence": 0.5924482570544265
+            }
+        },
+        {
+            "text": "indeed",
+            "intent": "mood_affirm",
+            "intent_prediction": {
+                "name": "mood_deny",
+                "confidence": 0.4933334885476765
+            }
+        },
+        {
+            "text": "that sounds good",
+            "intent": "mood_affirm",
+            "intent_prediction": {
+                "name": "mood_great",
+                "confidence": 0.36354184350601326
+            }
+        },
+        {
+            "text": "correct",
+            "intent": "mood_affirm",
+            "intent_prediction": {
+                "name": "mood_great",
+                "confidence": 0.32020619479053886
+            }
+        }
+    ]
+}
